@@ -1,0 +1,431 @@
+is,2699,(verb)
+are,1843,(verb)
+be,1145,"(verb, auxiliary verb)"
+have,891,"(verb, auxiliary verb)"
+has,384,(verb)
+use,319,"(verb, noun)"
+make,262,"(verb, noun)"
+get,233,(verb)
+see,204,(verb)
+need,193,(verb)
+know,181,(verb)
+would,176,(verb)
+find,166,(verb)
+take,164,(verb)
+want,163,(verb)
+look,144,"(verb, noun, interjection)"
+help,141,"(verb, noun, interjection)"
+go,131,"(verb, noun, adjective)"
+being,124,"(verb, noun)"
+think,116,"(verb, adjective, noun)"
+does,104,(verb)
+learn,102,(verb)
+become,97,(verb)
+read,97,"(verb, noun)"
+keep,96,"(verb, noun)"
+start,96,"(verb, noun)"
+give,93,"(verb, noun)"
+come,88,(verb)
+include,80,(verb)
+thank,78,(verb)
+play,75,"(verb, noun)"
+feel,74,"(verb, noun)"
+put,70,"(verb, noun)"
+set,69,"(verb, noun, adjective)"
+provide,68,(verb)
+change,67,"(verb, noun)"
+say,66,"(verb, interjection, noun)"
+create,63,(verb)
+add,60,(verb)
+understand,59,(verb)
+consider,57,(verb)
+cut,50,"(verb, noun)"
+show,50,"(verb, noun)"
+try,50,"(verb, noun)"
+choose,49,(verb)
+develop,49,(verb)
+check,49,"(verb, noun, interjection)"
+call,47,"(verb, noun)"
+move,47,"(verb, noun)"
+pay,47,"(verb, noun)"
+remember,46,(verb)
+let,46,"(verb, noun)"
+increase,45,"(verb, noun)"
+turn,44,"(verb, noun)"
+ask,42,"(verb, noun)"
+buy,42,"(verb, noun)"
+guard,42,"(verb, noun)"
+hold,42,"(verb, noun)"
+offer,42,"(verb, noun)"
+travel,41,"(verb, noun)"
+determine,40,(verb)
+cook,40,"(verb, noun)"
+grow,37,(verb)
+dance,37,"(verb, noun)"
+excuse,37,"(verb, noun)"
+allow,35,(verb)
+live,35,"(verb, adjective, adverb)"
+supply,34,(verb)
+purchase,34,"(verb, noun)"
+deal,33,"(verb, noun)"
+mean,33,"(verb, adjective, noun)"
+fall,32,"(verb, noun)"
+bring,31,(verb)
+improve,31,(verb)
+produce,31,"(verb, noun)"
+search,31,"(verb, noun)"
+maintain,30,(verb)
+spend,30,"(verb, noun)"
+talk,30,"(verb, noun)"
+upset,30,"(verb, adjective)"
+begin,29,(verb)
+tell,29,"(verb, noun)"
+exist,28,(verb)
+tend,28,(verb)
+cost,28,"(verb, noun)"
+drive,28,"(verb, noun)"
+support,28,"(verb, noun)"
+enjoy,27,(verb)
+perform,27,(verb)
+remove,27,"(verb, noun)"
+return,27,"(verb, noun)"
+run,27,"(verb, noun)"
+appropriate,26,"(verb, adjective)"
+reserve,26,"(verb, noun)"
+decide,25,(verb)
+identify,25,(verb)
+leave,25,"(verb, noun)"
+reach,25,"(verb, noun)"
+rest,25,"(verb, noun)"
+serve,25,"(verb, noun)"
+watch,25,"(verb, noun)"
+continue,24,(verb)
+protect,24,(verb)
+require,24,(verb)
+charge,24,"(verb, noun)"
+occur,23,(verb)
+write,23,(verb)
+break,23,"(verb, noun)"
+stay,23,"(verb, noun)"
+visit,23,"(verb, noun)"
+approach,22,(verb)
+avoid,22,(verb)
+prepare,22,(verb)
+affect,22,"(verb, noun)"
+cover,22,"(verb, noun)"
+report,22,"(verb, noun)"
+rise,22,"(verb, noun)"
+build,21,(verb)
+walk,21,"(verb, noun)"
+achieve,20,(verb)
+believe,20,(verb)
+receive,20,(verb)
+seem,20,(verb)
+pick,20,"(verb, noun)"
+discuss,19,(verb)
+realize,19,(verb)
+lift,19,"(verb, noun)"
+mix,19,"(verb, noun)"
+stop,19,"(verb, noun)"
+teach,19,"(verb, noun)"
+contain,18,(verb)
+follow,18,(verb)
+refer,18,(verb)
+solve,18,(verb)
+concern,18,"(verb, noun)"
+fly,18,"(verb, noun)"
+describe,17,(verb)
+prefer,17,(verb)
+prevent,17,(verb)
+born,17,"(verb, adjective, past particple)"
+gain,17,"(verb, noun)"
+save,17,"(verb, noun, preposition)"
+stand,17,"(verb, noun)"
+discover,16,(verb)
+ensure,16,(verb)
+expect,16,(verb)
+invest,16,(verb)
+reduce,16,(verb)
+speak,16,(verb)
+fail,16,"(verb, noun)"
+lead,16,"(verb, noun)"
+listen,16,"(verb, noun)"
+worry,16,"(verb, noun)"
+appear,15,(verb)
+explain,15,(verb)
+explore,15,(verb)
+involve,15,(verb)
+lose,15,(verb)
+express,15,"(verb, adjective, adverb)"
+handle,15,"(verb, noun)"
+meet,15,"(verb, noun)"
+release,15,"(verb, noun)"
+sell,15,"(verb, noun)"
+afford,14,(verb)
+agree,14,(verb)
+hear,14,(verb)
+remain,14,(verb)
+represent,14,(verb)
+finish,14,"(verb, noun)"
+press,14,"(verb, noun)"
+ride,14,"(verb, noun)"
+spread,14,"(verb, noun)"
+spring,14,"(verb, noun)"
+wait,14,"(verb, noun)"
+apply,13,(verb)
+forget,13,(verb)
+recommend,13,(verb)
+rely,13,(verb)
+vary,13,(verb)
+display,13,"(verb, noun)"
+flow,13,"(verb, noun)"
+hit,13,"(verb, noun)"
+shoot,13,"(verb, noun, interjection)"
+touch,13,"(verb, noun)"
+generate,12,(verb)
+obtain,12,(verb)
+cancel,12,"(verb, noun)"
+cry,12,"(verb, noun, idiom)"
+dump,12,"(verb, noun, idiom)"
+push,12,"(verb, noun, idiom)"
+select,12,"(verb, adjective)"
+accept,11,(verb)
+communicate,11,(verb)
+complain,11,(verb)
+depend,11,(verb)
+enter,11,(verb)
+happen,11,(verb)
+indicate,11,(verb)
+suggest,11,(verb)
+survive,11,(verb)
+conflict,11,"(verb, noun)"
+die,11,"(verb, idiom)"
+eat,11,"(verb, noun, idiom)"
+fill,11,"(verb, noun, idiom)"
+jump,11,"(verb, noun, adjective)"
+kick,11,"(verb, noun, idiom)"
+pass,11,"(verb, noun, idiom)"
+pitch,11,"(verb, noun)"
+treat,11,"(verb, noun)"
+appreciate,10,(verb)
+compare,10,(verb)
+imagine,10,(verb)
+manage,10,(verb)
+abuse,10,"(verb, noun)"
+beat,10,"(verb, noun, adjective)"
+burn,10,"(verb, noun)"
+deposit,10,"(verb, noun)"
+print,10,"(verb, noun, adjective)"
+raise,10,"(verb, noun, idiom)"
+sleep,10,"(verb, noun, idiom)"
+differ,9,(verb)
+encourage,9,(verb)
+expand,9,(verb)
+prove,9,(verb)
+react,9,(verb)
+recognize,9,(verb)
+relax,9,(verb)
+replace,9,(verb)
+advance,9,"(verb, noun, adjective)"
+connect,9,"(verb, adjective)"
+consist,9,"(verb, noun)"
+contribute,9,"(verb, idiom)"
+draw,9,"(verb, noun, idiom)"
+fix,9,"(verb, noun, idiom)"
+hire,9,"(verb, noun, adjective)"
+join,9,"(verb, noun)"
+kill,9,"(verb, noun, idiom)"
+sit,9,"(verb, idiom)"
+tap,9,"(verb, noun)"
+win,9,"(verb, noun)"
+borrow,8,(verb)
+earn,8,(verb)
+emphasize,8,(verb)
+enable,8,(verb)
+operate,8,(verb)
+reflect,8,(verb)
+send,8,(verb)
+attack,8,"(verb, noun)"
+claim,8,"(verb, noun)"
+drag,8,"(verb, noun, adjective)"
+drink,8,"(verb, noun)"
+guess,8,"(verb, noun, idiom)"
+pull,8,"(verb, noun)"
+wear,8,"(verb, noun, idiom)"
+wonder,8,"(verb, noun, idiom)"
+anticipate,7,(verb)
+assume,7,(verb)
+engage,7,(verb)
+enhance,7,(verb)
+examine,7,(verb)
+install,7,(verb)
+participate,7,(verb)
+count,7,"(verb, noun, adjective)"
+doubt,7,"(verb, noun, idiom)"
+feed,7,"(verb, noun, idiom)"
+impress,7,"(verb, noun)"
+repeat,7,"(verb, noun)"
+seek,7,"(verb, idiom)"
+sing,7,"(verb, noun)"
+slide,7,"(verb, noun, idiom)"
+strip,7,"(verb, noun)"
+wish,7,"(verb, noun)"
+intend,6,(verb)
+introduce,6,(verb)
+relate,6,(verb)
+settle,6,(verb)
+collect,6,"(verb, adverb, noun)"
+combine,6,"(verb, noun)"
+command,6,"(verb, noun)"
+dig,6,"(verb, noun)"
+divide,6,"(verb, noun)"
+hang,6,"(verb, noun, idiom)"
+hunt,6,"(verb, noun)"
+march,6,"(verb, noun, idiom)"
+mention,6,"(verb, noun, idiom)"
+smell,6,"(verb, noun)"
+survey,6,"(verb, noun)"
+tie,6,"(verb, noun, idiom)"
+assure,5,(verb)
+attract,5,(verb)
+distribute,5,(verb)
+overcome,5,(verb)
+owe,5,(verb)
+succeed,5,(verb)
+suffer,5,(verb)
+throw,5,(verb)
+escape,5,"(verb, noun, adjective)"
+expose,5,"(verb, idiom)"
+gather,5,"(verb, noun, idiom)"
+hate,5,"(verb, noun)"
+repair,5,"(verb, noun)"
+scratch,5,"(verb, noun, adjective)"
+strike,5,"(verb, noun, adjective)"
+acquire,4,(verb)
+adapt,4,(verb)
+adjust,4,(verb)
+argue,4,(verb)
+arise,4,(verb)
+confirm,4,(verb)
+encouraging,4,(verb)
+incorporate,4,(verb)
+justify,4,(verb)
+organize,4,(verb)
+ought,4,(verb)
+possess,4,(verb)
+relieve,4,(verb)
+retain,4,(verb)
+shut,4,(verb)
+employ,4,"(verb, noun)"
+hurt,4,"(verb, noun)"
+laugh,4,"(verb, noun)"
+lay,4,"(verb, noun, adjective)"
+respond,4,"(verb, noun)"
+split,4,"(verb, noun)"
+strain,4,"(verb, noun)"
+struggle,4,"(verb, noun)"
+swim,4,"(verb, noun)"
+train,4,"(verb, noun)"
+wash,4,"(verb, noun)"
+waste,4,"(verb, adjective, noun)"
+calculate,3,(verb)
+compete,3,(verb)
+consult,3,(verb)
+deliver,3,(verb)
+extend,3,(verb)
+investigate,3,(verb)
+negotiate,3,(verb)
+qualify,3,(verb)
+retire,3,(verb)
+rid,3,(verb)
+weigh,3,(verb)
+convert,3,"(verb, noun)"
+crash,3,"(verb, noun, adjective)"
+fold,3,"(verb, noun)"
+grab,3,"(verb, noun)"
+hide,3,"(verb, noun)"
+miss,3,"(verb, noun)"
+permit,3,"(verb, noun)"
+quote,3,"(verb, noun)"
+recover,3,"(verb, noun)"
+resolve,3,"(verb, noun)"
+roll,3,"(verb, noun)"
+sink,3,"(verb, noun)"
+slip,3,"(verb, noun)"
+suspect,3,"(verb, noun, adjective)"
+swing,3,"(verb, noun)"
+twist,3,"(verb, noun)"
+arrive,2,(verb)
+attach,2,(verb)
+behave,2,(verb)
+celebrate,2,(verb)
+convince,2,(verb)
+disagree,2,(verb)
+establish,2,(verb)
+ignore,2,(verb)
+imply,2,(verb)
+insist,2,(verb)
+pursue,2,(verb)
+remaining,2,(verb)
+specify,2,(verb)
+warn,2,(verb)
+concentrate,2,"(verb, noun)"
+estimate,2,"(verb, noun)"
+prompt,2,"(verb, noun, adjective)"
+refuse,2,"(verb, noun)"
+regret,2,"(verb, noun)"
+reveal,2,"(verb, noun)"
+rush,2,"(verb, noun)"
+shake,2,"(verb, noun)"
+shift,2,"(verb, noun)"
+shine,2,"(verb, noun)"
+steal,2,"(verb, noun)"
+suck,2,"(verb, noun)"
+surround,2,"(verb, noun)"
+accuse,1,(verb)
+admire,1,(verb)
+admit,1,(verb)
+adopt,1,(verb)
+announce,1,(verb)
+apologize,1,(verb)
+approve,1,(verb)
+attend,1,(verb)
+belong,1,(verb)
+commit,1,(verb)
+criticize,1,(verb)
+deserve,1,(verb)
+destroy,1,(verb)
+hesitate,1,(verb)
+illustrate,1,(verb)
+inform,1,(verb)
+manufacturing,1,(verb)
+persuade,1,(verb)
+pour,1,(verb)
+propose,1,(verb)
+remind,1,(verb)
+shall,1,(verb)
+submit,1,(verb)
+suppose,1,(verb)
+translate,1,(verb)
+bear,1,"(verb, noun)"
+dare,1,"(verb, noun)"
+delay,1,"(verb, noun)"
+hurry,1,"(verb, noun)"
+invite,1,"(verb, noun)"
+kiss,1,"(verb, noun)"
+marry,1,"(verb, interjection)"
+pop,1,"(verb, noun, adverb)"
+pray,1,"(verb, adverb)"
+pretend,1,"(verb, adjective)"
+punch,1,"(verb, noun)"
+quit,1,"(verb, noun)"
+reply,1,"(verb, noun)"
+resist,1,"(verb, noun)"
+rip,1,"(verb, noun)"
+rub,1,"(verb, noun)"
+smile,1,"(verb, noun)"
+spell,1,"(verb, noun)"
+stretch,1,"(verb, noun)"
+tear,1,"(verb, noun)"
+wake,1,"(verb, noun)"
+wrap,1,"(verb, noun)"
