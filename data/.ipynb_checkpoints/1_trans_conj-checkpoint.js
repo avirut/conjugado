@@ -10,7 +10,7 @@ async function transAndConj(words) {
     for (let i = 0; i < words.length; i++) {
         console.log("word " + i.toString() + " / " + numWords.toString() + "\r")
         var engWord = words[i];
-        var engConj = await conjugate(engWord);
+        var engConj = await conjugate("to " + engWord);
 
         var translations = await translate(engWord);
         var meanings = [];
@@ -38,7 +38,7 @@ async function transAndConj(words) {
 }
 
 var wordList = fs.readFileSync('wordlist.txt').toString().split("\r\n");
-wordList = wordList.slice(3,5);
+// wordList = wordList.slice(0,5);
 
 transAndConj(wordList).then(aWords => {
     fs.writeFileSync('allwords.json', JSON.stringify(aWords));
